@@ -4,3 +4,7 @@ WebContent/META-INF
 WebContent/js/jquery-1.7.2.min.js
 src
 WebContent/tests.html
+.classpath
+.gitignore
+.project
+.settings
